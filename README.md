@@ -1,4 +1,4 @@
-# WHITE-BOX-CARTOONIZATION using TF.js
+# WHITE-BOX-CARTOONIZATION using TensorFlow.js
  An implementation of the Whitebox Cartoonization model using Tensorflow.js and HTML/CSS/Javascript/Bootstrap.
 
 [Try the application](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
