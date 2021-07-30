@@ -14,3 +14,5 @@ Thanks to the work of Xinrui Wang and Jinze Yu. You can find their paper [here](
 [Pre-print @arXiv](https://arxiv.org/abs/2107.04551)
 
 [Published Paper @IJEAST](http://ijeast.com/papers/294-298,Tesma512,IJEAST.pdf)
+
+[Presentation](http://dx.doi.org/10.13140/RG.2.2.22496.40964)
