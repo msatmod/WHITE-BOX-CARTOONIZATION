@@ -3,6 +3,10 @@
 
 [Try the application](https://amey-thakur.github.io/WHITE-BOX-CARTOONIZATION)
 
+ - [Demo](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION/blob/main/MINI-PROJECT_TE-COMPS_B-50%2C51%2C58.mp4)
+ - [Presentation](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION/blob/main/MINI-PROJECT_PRESENTATION%20_TE-COMPS_B-50%2C51%2C58.pdf)
+ - [Report](https://github.com/Amey-Thakur/WHITE-BOX-CARTOONIZATION/blob/main/MINI-PROJECT_REPORT_TE-COMPS_B-50%2C51%2C58.pdf)
+
 ## Citation
 Thanks to the work of Xinrui Wang and Jinze Yu. You can find their paper [here](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Learning_to_Cartoonize_Using_White-Box_Cartoon_Representations_CVPR_2020_paper.html) 
 
